@@ -1,0 +1,28 @@
+*{
+  /* padding: 2rem;   */
+}
+table{
+    /* padding:2rem; */
+    margin:auto;
+}
+
+
+tr{
+    background-color:orange;
+    color:white;
+    margin: auto;
+   
+}
+th{
+    height:50px;
+    width: 10%;
+    margin: auto;
+}
+.aralık{
+    color:black;
+}
+
+i{
+    font-size:2rem;
+    color:black;
+}
